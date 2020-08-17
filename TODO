@@ -1,0 +1,13 @@
+todo:
+    testing configs
+    main module(connecting to each node and configuring it based on cfg data)
+    settings module
+
+done:
+    helpers-test
+    helper
+    telnet
+    cfg-module
+    telnet-test
+    configuration modules(for eaach of nodes i wanna config)
+    cfg-data
